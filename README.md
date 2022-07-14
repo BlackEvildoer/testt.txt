@@ -7,6 +7,6 @@
 
   git clone https://github.com/BlackEvildoer/testt.txt
 
-  cd IDpro
+  cd testt.txt
  
   python Run.py
