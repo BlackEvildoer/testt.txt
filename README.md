@@ -9,4 +9,4 @@
 
   cd testt.txt
  
-  python Run.py
+  python IDpro.py
