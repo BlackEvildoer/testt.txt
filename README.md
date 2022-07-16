@@ -24,3 +24,13 @@
 # ID ACTIVE 
 
   send ID For Telegram Me https://t.me/B_1_2_4
+
+#### MY SOCIAL MEDIA
+ 
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=red&labelColor=black)](https://t.me/B_1_2_4) <br>
+
+#### MY CHENAL TELEGRAM
+
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=red&labelColor=black)](https://t.me/BESTxHACKER) <br>
+ 
+<h2> THANKS FOR VISIT  <h2\>
